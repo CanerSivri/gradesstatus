@@ -38,5 +38,6 @@ int main(){
     printf("Average grade of class %lf\n",average);
     printf("Passed students %d\n",passed);
     printf("Failed students %d\n",failed);
+    system("pause");
     return 0;
 }
